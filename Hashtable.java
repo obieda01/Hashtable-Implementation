@@ -56,6 +56,7 @@ public v put(k key,v value)
 		HashhMap<Integer,Integer> h= new HashhMap(32,0.8f);
 		h.put(1, 1);
 		h.put(1, 1);
+		h.put(1, 1);
 
 	}
 
