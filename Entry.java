@@ -3,4 +3,5 @@ public class Entry<k,v> {
 	public v value;
 	public int hash;
 	public Entry<k,v> next;
+	
 }
