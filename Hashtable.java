@@ -3,6 +3,7 @@ import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class HashhMap<k,v> {
+
 	
 private static int capacity=16;
 private static float loadFactor=0.75f;
