@@ -12,7 +12,6 @@ Entry[] table;
 public HashhMap(){
 	maxSize=(int)(capacity*loadFactor);
 	table=new Entry<?,?>[maxSize];
-	
 }
 
 public HashhMap(int capacity){
