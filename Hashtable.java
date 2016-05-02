@@ -2,7 +2,6 @@ import java.util.HashMap;
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
-
 public class HashhMap<k,v> {
 	
 private static int capacity=16;
