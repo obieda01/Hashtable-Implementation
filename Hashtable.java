@@ -10,7 +10,6 @@ private static float loadFactor=0.75f;
 private int size=0;
 private int maxSize;
 Entry[] table;
-
 public HashhMap(){
 	maxSize=(int)(capacity*loadFactor);
 	table=new Entry<?,?>[maxSize];
